@@ -6,8 +6,8 @@
 
 # Indice
 
-* [Descripción del Proyecto](#descripción-del-Proyecto)
-* [Estado del Proyecto](#estado-del-Proyecto)
+* [Descripción del Proyecto](#Descripción-del-Proyecto)
+* [Estado del Proyecto](#Eestado-del-Proyecto)
 * [Características de la Aplicación](#características-de-la-Aplicación)
 * [Acceso al Proyecto](#acceso-al-Proyecto)
 * [Tecnologías Utilizadas](#tecnologías-utilizadas)
