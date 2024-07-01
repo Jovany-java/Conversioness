@@ -48,9 +48,11 @@ Tiene la función de hacer conversiones de una moneda a otra usando las abreviat
 
 ## Conclusión
 Este proyecto ofrece una solución eficiente para convertir un tipo de moneda a otra prueba con cualquier moneda. Con la implementación de asegurar que el usuario coloque un dato correcto, he logrado el objetivo principal para el proyecto de ALURA de manejar la API y hacer las conversiones de dinero. No se lograron hacer los extras, pero fue suficiente avance para mí.
+Por ulrimo reto fue hacerte este README.md
 
 ## Errores sin Resolver
 El único objetivo personal que no se cumplió fue que el usuario, sí o sí, pusiera una moneda y que le impida poner 3 letras de lo que sea.
+El indice también fue un problema que no se soluciono
 
 El estado actual del proyecto es completo y estable.
 
