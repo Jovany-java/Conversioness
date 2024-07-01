@@ -6,28 +6,28 @@
 
 # Indice
 
-* [Descripción del Proyecto](#descripción-del-proyecto)
-* [Estado del proyecto](#estado-de-proyecto)
-* [Características de la aplicación](#características-de-la-aplicación)
-* [Acceso al proyecto](#acceso-al-proyecto)
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Descripción del Proyecto](#descripción-del-Proyecto)
+* [Estado del Proyecto](#estado-del-Proyecto)
+* [Características de la Aplicación](#características-de-la-Aplicación)
+* [Acceso al Proyecto](#acceso-al-Proyecto)
+* [Tecnologías Utilizadas](#tecnologías-utilizadas)
 * [Personas-Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
 * [Conclusión](#conclusión)
-* [Errores sin resolver](#errores-sin-resolver)
+* [Errores sin Resolver](#errores-sin-resolver)
 
 ## 📝 Descripción del Proyecto
 Tiene la función de hacer conversiones de una moneda a otra usando las abreviaturas de las monedas.
 
-## 🛠️ Estado de Proyecto
+## 🛠️ Estado del Proyecto
 ##### **FINALIZADO** ⭐ 
 
-## 💠 Características de la aplicación
+## 💠 Características de la Aplicación
 - No te permite introducir datos incorrectos
 - Se asegura que obtenga el dato correcto
 - Conversión de 2 monedas
 - Creación de Archivo JSON
 
-## 📂 Acceso al proyecto
+## 📂 Acceso al Proyecto
 
 ###### Puedes descargar siguiendo los siguientes pasos
 
@@ -39,7 +39,7 @@ Tiene la función de hacer conversiones de una moneda a otra usando las abreviat
 ###### 2. ❗Descargar un editor de código que ejecute JAVA - Descarga IntelliJ <a href="https://www.jetbrains.com/idea/">Aquí</a>
 ###### 3. ❗Descargar un <a href="https://www.oracle.com/java/technologies/downloads/">JDK</a>.
 
-## ✅ Tecnologías utilizadas
+## ✅ Tecnologías Utilizadas
 - Java
 
 ## Personas-Desarrolladores del Proyecto
@@ -49,16 +49,10 @@ Tiene la función de hacer conversiones de una moneda a otra usando las abreviat
 ## Conclusión
 Este proyecto ofrece una solución eficiente para convertir un tipo de moneda a otra prueba con cualquier moneda. Con la implementación de asegurar que el usuario coloque un dato correcto, he logrado el objetivo principal para el proyecto de ALURA de manejar la API y hacer las conversiones de dinero. No se lograron hacer los extras, pero fue suficiente avance para mí.
 
-## Errores sin resolver
-El único objetivo personal que no se cumplió fue que el usuario, si o si, pusiera una moneda y que le impida poner 3 letras de lo que sea.
+## Errores sin Resolver
+El único objetivo personal que no se cumplió fue que el usuario, sí o sí, pusiera una moneda y que le impida poner 3 letras de lo que sea.
 
 El estado actual del proyecto es completo y estable.
 
 ¡Gracias por tu interés en nuestro proyecto!
-
-
-
-
-
-
 
