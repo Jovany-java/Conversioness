@@ -56,5 +56,5 @@ El indice también fue un problema que no se soluciono
 
 El estado actual del proyecto es completo y estable.
 
-¡Gracias por tu interés en nuestro proyecto!
+¡Gracias por tu interés en mi proyecto!
 
